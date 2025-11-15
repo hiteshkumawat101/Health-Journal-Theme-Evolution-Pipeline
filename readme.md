@@ -33,7 +33,7 @@ It uses a **Groq LLM (llama-3.1-8b-instant)** to analyze 15 days of journal entr
 │── timeline1.png          ← Timeline visualization from Sample_LLM_main.py
 │── README.md              ← Project documentation
 
-
+```
 ---
 
 ## 🧠 How the Pipeline Works
@@ -151,3 +151,4 @@ The timeline clearly shows:
 * Final **Gratitude**
 
 ---
+
