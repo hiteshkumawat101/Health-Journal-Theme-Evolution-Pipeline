@@ -1,5 +1,5 @@
 
-# 📘 README — *Health Journal Theme Evolution Pipeline*
+#  *Health Journal Theme Evolution Pipeline*
 
 ## 📄 Overview
 
@@ -151,4 +151,5 @@ The timeline clearly shows:
 * Final **Gratitude**
 
 ---
+
 
