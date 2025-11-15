@@ -15,7 +15,7 @@ It uses a **Groq LLM (llama-3.1-8b-instant)** to analyze 15 days of journal entr
 * ✔ **Weekly micro-practices**
 * ✔ **Overall emotional evolution insight**
 * ✔ **Matplotlib timeline visualization** with color = emotional intensity
-* ✔ **Structured output JSON** matching assignment expectations
+* ✔ **Structured output JSON** 
 
 
 ---
@@ -151,5 +151,6 @@ The timeline clearly shows:
 * Final **Gratitude**
 
 ---
+
 
 
