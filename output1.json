@@ -1,0 +1,136 @@
+{
+  "phases": [
+    {
+      "phase_label": "Work Stress",
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-05",
+      "representative_entries": [
+        "e_001",
+        "e_002"
+      ],
+      "micro_practice": "Take a deep breath in through your nose and out through your mouth, and ask yourself: \"What's the one thing I can do in the next 5 minutes to move closer to feeling more grounded and focused at work?\"",
+      "confidence": 5.0
+    },
+    {
+      "phase_label": "Meaning & Values Reflection",
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-09",
+      "representative_entries": [
+        "e_005",
+        "e_006"
+      ],
+      "micro_practice": "Take a few deep breaths and ask yourself, \"What's one thing I'm grateful for in my current situation, no matter how small it may seem?\" Allow this feeling to settle in before moving forward.",
+      "confidence": 3.6666666666666665
+    },
+    {
+      "phase_label": "Self-Care & Calm",
+      "start_date": "2025-10-11",
+      "end_date": "2025-10-12",
+      "representative_entries": [
+        "e_008",
+        "e_009"
+      ],
+      "micro_practice": "As you sit comfortably, place one hand on your heart and the other on your belly, taking a few slow breaths to feel the sensation of your hands on your body. Allow yourself to settle into the present moment, letting go of any tension or thoughts.",
+      "confidence": 2.5
+    },
+    {
+      "phase_label": "Connection & Community",
+      "start_date": "2025-10-13",
+      "end_date": "2025-10-13",
+      "representative_entries": [
+        "e_010"
+      ],
+      "micro_practice": "Take a few deep breaths and write down three things you're grateful for in your life right now, no matter how small they may seem. This helps calm your mind and reminds you of your connections and blessings.",
+      "confidence": 3.0
+    },
+    {
+      "phase_label": "Acceptance & Resilience",
+      "start_date": "2025-10-15",
+      "end_date": "2025-10-15",
+      "representative_entries": [
+        "e_011"
+      ],
+      "micro_practice": "Take 3 deep breaths, inhaling slowly and exhaling slowly, and as you breathe out, allow any tension or worry to release. As you exhale, repeat to yourself, \"I can handle this moment.\"",
+      "confidence": 4.0
+    },
+    {
+      "phase_label": "Self-Care & Calm",
+      "start_date": "2025-10-16",
+      "end_date": "2025-10-16",
+      "representative_entries": [
+        "e_012"
+      ],
+      "micro_practice": "As you sit comfortably, place one hand on your heart and the other on your belly, taking a few slow breaths to feel the sensation of your hands on your body. Allow yourself to settle into the present moment, letting go of any tension or thoughts.",
+      "confidence": 2.0
+    },
+    {
+      "phase_label": "Acceptance & Resilience",
+      "start_date": "2025-10-18",
+      "end_date": "2025-10-18",
+      "representative_entries": [
+        "e_013"
+      ],
+      "micro_practice": "Take 3 deep breaths, inhaling slowly and exhaling slowly, and as you breathe out, allow any tension or worry to release. As you exhale, repeat to yourself, \"I can handle this moment.\"",
+      "confidence": 3.0
+    },
+    {
+      "phase_label": "Productivity & Progress",
+      "start_date": "2025-10-19",
+      "end_date": "2025-10-19",
+      "representative_entries": [
+        "e_014"
+      ],
+      "micro_practice": "As you take a deep breath, write down one thing you're looking forward to accomplishing today - it can be as simple as enjoying a cup of coffee or finishing a task. Take a moment to savor the feeling of anticipation and excitement for what's to come.",
+      "confidence": 2.0
+    },
+    {
+      "phase_label": "Gratitude & Appreciation",
+      "start_date": "2025-10-21",
+      "end_date": "2025-10-21",
+      "representative_entries": [
+        "e_015"
+      ],
+      "micro_practice": "Take a few deep breaths and notice three things you appreciate about your surroundings, such as a good cup of coffee or a comfortable chair. Allow these small pleasures to bring a sense of calm and gratitude to your mind.",
+      "confidence": 2.0
+    }
+  ],
+  "insight": "From navigating the challenges of work stress and uncertainty, this person has moved into a more reflective and growth-oriented space, cultivating a deeper sense of self-awareness and connection to their values and community.",
+  "weekly_micro_practices": [
+    {
+      "year": 2025,
+      "week": 40,
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-05",
+      "dominant_theme": "Work Stress",
+      "micro_practice": "Take a deep breath in through your nose and out through your mouth, and ask yourself: \"What's the one thing I can do in the next 5 minutes to move closer to feeling more grounded and focused at work?\""
+    },
+    {
+      "year": 2025,
+      "week": 41,
+      "start_date": "2025-10-07",
+      "end_date": "2025-10-12",
+      "dominant_theme": "Meaning & Values Reflection",
+      "micro_practice": "Take a few deep breaths and ask yourself, \"What's one thing I'm grateful for in my current situation, no matter how small it may seem?\" Allow this feeling to settle in before moving forward."
+    },
+    {
+      "year": 2025,
+      "week": 42,
+      "start_date": "2025-10-13",
+      "end_date": "2025-10-19",
+      "dominant_theme": "Acceptance & Resilience",
+      "micro_practice": "Take 3 deep breaths, inhaling slowly and exhaling slowly, and as you breathe out, allow any tension or worry to release. As you exhale, repeat to yourself, \"I can handle this moment.\""
+    },
+    {
+      "year": 2025,
+      "week": 43,
+      "start_date": "2025-10-21",
+      "end_date": "2025-10-21",
+      "dominant_theme": "Gratitude & Appreciation",
+      "micro_practice": "Take a few deep breaths and notice three things you appreciate about your surroundings, such as a good cup of coffee or a comfortable chair. Allow these small pleasures to bring a sense of calm and gratitude to your mind."
+    }
+  ],
+  "meta": {
+    "llm_provider": "groq",
+    "llm_model": "llama-3.1-8b-instant"
+  }
+}

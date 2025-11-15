@@ -1,0 +1,62 @@
+{
+  "phases": [
+    {
+      "phase_label": "Stress",
+      "start_date": "2025-10-01",
+      "end_date": "2025-10-09",
+      "representative_entries": [
+        "e_001",
+        "e_002"
+      ],
+      "micro_practice": "Take a 3-minute breathing break and relax your shoulders.",
+      "confidence": 0.013
+    },
+    {
+      "phase_label": "Self & Care",
+      "start_date": "2025-10-11",
+      "end_date": "2025-10-11",
+      "representative_entries": [
+        "e_008"
+      ],
+      "micro_practice": "Note one small intention for the next few hours.",
+      "confidence": 0.013
+    },
+    {
+      "phase_label": "General Reflection",
+      "start_date": "2025-10-12",
+      "end_date": "2025-10-13",
+      "representative_entries": [
+        "e_009",
+        "e_010"
+      ],
+      "micro_practice": "Note one small intention for the next few hours.",
+      "confidence": 0.013
+    },
+    {
+      "phase_label": "Stress",
+      "start_date": "2025-10-15",
+      "end_date": "2025-10-19",
+      "representative_entries": [
+        "e_011",
+        "e_012"
+      ],
+      "micro_practice": "Take a 3-minute breathing break and relax your shoulders.",
+      "confidence": 0.013
+    },
+    {
+      "phase_label": "Self & Care",
+      "start_date": "2025-10-21",
+      "end_date": "2025-10-21",
+      "representative_entries": [
+        "e_015"
+      ],
+      "micro_practice": "Note one small intention for the next few hours.",
+      "confidence": 0.013
+    }
+  ],
+  "insight": "Your journaling centers around stress.",
+  "meta": {
+    "best_k": 4,
+    "silhouette_score": 0.013382032260158268
+  }
+}
